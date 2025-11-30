@@ -1,0 +1,5 @@
+new_data/
+accident_photos/
+accident_classification.ipynb
+.venv/
+__pycache__/
