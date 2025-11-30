@@ -1,0 +1,36 @@
+# GLOBAL
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.swp
+
+# VS CODE
+.vscode/
+
+# PYTHON BACKEND
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+
+# REACT FRONTEND
+node_modules/
+build/
+dist/
+
+# IMAGES / VIDEOS (optional ignore)
+*.png
+*.jpg
+*.jpeg
+*.mp4
+
+# DOCKER
+*.pid
+
+# ARCHIVES
+*.zip
+*.tar
+*.gz
